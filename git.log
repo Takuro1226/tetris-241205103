@@ -1,0 +1,40 @@
+commit 56e82f83f96818b6ad716e8d107e714a3499423d
+Merge: 26f405c 81f45a8
+Author: Takuro Takagi <186162441+Takuro1226@users.noreply.github.com>
+Date:   Mon May 19 14:29:15 2025 +0900
+
+    h
+
+commit 26f405ccd54b0b36d0bd8f92d26d72f9c30dea69
+Author: Takuro Takagi <186162441+Takuro1226@users.noreply.github.com>
+Date:   Mon May 19 14:25:25 2025 +0900
+
+    ピースの色を変更
+    
+    cyanからskyblueに変更
+
+commit 81f45a8eae221d541fd046c0bb3c10f3a57b7489
+Author: Takuro1226 <186162441+Takuro1226@users.noreply.github.com>
+Date:   Mon May 19 14:19:06 2025 +0900
+
+    ピースの色を変更
+    
+    blue から skyblue
+
+commit c3d33d3c7308e7d3683eafeef721497019e14b75
+Author: Takuro Takagi <186162441+Takuro1226@users.noreply.github.com>
+Date:   Mon May 19 14:16:33 2025 +0900
+
+    落ちてくる速度の変更
+
+commit 8d9c541c79967822b24ac5c30f3c54af46122d81
+Author: Takuro Takagi <186162441+Takuro1226@users.noreply.github.com>
+Date:   Mon May 19 14:07:06 2025 +0900
+
+    色をgreenからlimeに変更
+
+commit d712ddd54e814ae2503ca053c8ea49f00a7a302c
+Author: Takuro Takagi <186162441+Takuro1226@users.noreply.github.com>
+Date:   Mon May 19 13:43:34 2025 +0900
+
+    canvas-tetrisのソースコードをインポート
